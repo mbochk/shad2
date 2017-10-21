@@ -1,3 +1,8 @@
+# Untracked files:
+shad2/auto_texts/dz3/small/*
+shad2/auto_texts/dz3/test/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
