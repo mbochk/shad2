@@ -5,7 +5,8 @@ https://wiki.school.yandex.ru/shad/groups/2016/Semester3/NLP/
 
 ## Data
 
-read data at course page
+read data at course page.
+folders `small/` and `test/` are ignored here.
 
 ## Python 
 
